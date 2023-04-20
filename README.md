@@ -20,4 +20,4 @@ The Personal Finance Dashboard offers a variety of features to help you manage y
 4. A bar graph that shows the percentage of your income that goes towards each expense category
 
 
-![My_Financial_Dashboard](Screenshot (101).png)
+![My_Financial_Dashboard](https://github.com/ujjwal0804/My-Financial-Dashboard/blob/main/Dashboard.png)
